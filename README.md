@@ -1,8 +1,14 @@
+RESISTANCE LEVEL: VIAGRUH™  
+“If you have a bull run lasting longer than 3 years…  
+just HODL.”
+#GRIND #NoLazyFugazi
 # GRIND 🦔
+![15e35975-a978-4c30-b1e3-156aac4ba0a2](https://github.com/user-attachments/assets/1d492566-339e-41e1-bba1-1d6f34037020)
 
 > 💥 **NO LAZYFUGAZI.**  
 > GRIND is earned. Not copied. Not cloned. Not faked.  
 > Only the original survives the pressure.
+![15e35975-a978-4c30-b1e3-156aac4ba0a2](https://github.com/user-attachments/assets/928e1c8f-b126-4115-bf82-68f033069b1e)
 
 ![GRIND Mascot](./GRIND_Mascot.png)
 
