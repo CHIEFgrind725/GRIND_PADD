@@ -32,6 +32,19 @@ From market wreckage to rebirth — this is **rug pull recovery fuel.**
 
 ---
 
+## 🏦 Vault Token Breakdown (As of April 2025)
+
+- **Total Held in Vault:** 230,000,000 GRIND  
+- **Vault Wallet:** `HAYgBSZW6sArdGjBuDawCatfUr7NjVG9YcrbCRoukRPa`  
+- **Minting:** Permanently disabled  
+- **Usage Plan:**
+  - 150M reserved for future community drop (TBD unlock rules)
+  - 80M for staking programs, DAO operations, and ecosystem incentives
+- **Security:** Manual transfers only, public ledger visible, and no callable mint functions  
+- **Status:** 🔐 Vault sealed — funds visible and verifiable on Solana Explorer
+
+---
+
 ## 🛡️ DHI: Decentralized Heuristic Integrity
 
 **GRIND introduces a new layer of protection: DHI.**  
@@ -53,7 +66,8 @@ It’s a smart protocol-level guard system built to shield users from exploiters
 - **Initial LP Injection:** Powered by dev fund & ICO raise  
 - **LP Lock:** [Link will be posted here after deployment]  
 - **Lock Duration:** Minimum 6 months  
-- **Locker Used:** DXLock (or verified platform)
+- **Locker Used:** DXLock (or verified platform)  
+- **LP Lock Contract:** [Pending - Will be posted after Raydium/DXLock deployment]
 
 ---
 
@@ -75,7 +89,7 @@ GRIND is represented by an anime-style hedgehog in a black pinstripe welder suit
 
 ## 💬 Social & Links
 
-- [Website - Coming Soon]()  
-- [Twitter]()  
-- [Telegram]()  
-- [GitHub Repository]()
+- [Website - Coming Soon](https://CHIEFgrind725.github.io/grind-padd/)  
+- [Twitter](https://twitter.com/grindmaestrox3)  
+- [Discord](https://discord.gg/grind_hawg) *(replace with your real invite link)*  
+- [GitHub Repository](https://github.com/CHIEFgrind725/grind-padd)
