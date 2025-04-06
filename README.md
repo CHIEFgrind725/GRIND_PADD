@@ -1,65 +1,81 @@
-# GRIND P.A.D.D.
+# GRIND Token - Official README
 
-**GRIND** – Perseverance. Ambition. Drive. Discipline.  
-**P.A.D.D.** – Personal Asset Development Dashboard
+## 🔥 What is GRIND?
 
-The **GRIND P.A.D.D.** is the official control center of the GRIND ecosystem.  
-From staking to storytelling, governance to game theory — this is where GRIND holders track, manage, and evolve their journey. This platform empowers **GRIND token** holders with tools for staking, governance participation, and ecosystem engagement.
+GRIND is more than a meme. It’s a movement.  
+Forged on Solana, built for speculators and survivors alike, GRIND is a token of grit, vision, and financial redemption.  
 
----
-
-## GRIND Token
-
-**GRIND** is a utility token within the GRIND ecosystem, powering everything from governance to staking rewards and NFT claimable content. As a **community-driven** asset, GRIND aims to transform the crypto experience through innovation, rewards, and transparency.
-
-### Key Features:
-- **Staking Rewards**: Earn GRIND tokens by staking.
-- **Governance**: Participate in GRIND ecosystem decisions.
-- **Unique NFTs**: Unlock rewards and assets through milestones.
+From market wreckage to rebirth — this is **rug pull recovery fuel.**
 
 ---
 
-## 🧬 Hashtags That Built the Brand:
-`#GRIND` `#NoLazyFugazi` `#VIAGRUH` `#ClonedByCowards`
+## 🧬 Tokenomics
+
+- **Total Supply:** 700,000,000 GRIND  
+- **Initial ICO Price:** $0.005 per token  
+- **Transaction Fee (Sell-side only):** 1.3%  
+  - **Breakdown:**
+    - 0.4% to Liquidity  
+    - 0.3% to Staking Pool  
+    - 0.3% to Marketing & Expansion  
+    - 0.3% to Development Vault  
 
 ---
 
-## 🦔 GRIND Mascot
+## 🔐 Vault & Governance
 
-![GRIND Mascot](./GRIND_Mascot.png)
-
-Welcome to the hardest working asset in crypto. **GRIND** is more than just a token — it's a lifestyle.
-
----
-
-## 🗣️ Public Notice: GRIND is Often Imitated, Never Replicated
-
-🚨 We've seen imitation attempts — but **GRIND** isn't just a name. It's a **frequency**.  
-You can't fake the grind.
+- **Mint Vault Address (GrindingWheel):**  
+  `HAYgBSZW6sArdGjBuDawCatfUr7NjVG9YcrbCRoukRPa`  
+- **ICO & Marketing Wallet:**  
+  `GSZjSLFR3nad7G2uc7aQcSXPZCbPANc5iEJnXmMQS5UH`  
+- **Locked Token Reserve:** 150,000,000 GRIND (conditions-based release TBD)
 
 ---
 
-### 🧬 Verified GRIND Contracts:
-- **Mint Vault**: HAYgBSZW6sArdGjBuDawCatfUr7NjVG9YcrbCRoukRPa
-- **Dev Wallet**: Gh6iHEtAdq3biNmCSwnNQNC2qVg5aoHUw4AQv69TZmGv
-- **Marketing Wallet**: GSZjSLFR3nad7G2uc7aQcSXPZCbPANc5iEJnXmMQS5UH
+## 🛡️ DHI: Decentralized Heuristic Integrity
+
+**GRIND introduces a new layer of protection: DHI.**  
+It’s a smart protocol-level guard system built to shield users from exploiters, rug pulls, and market manipulation.
+
+### Features:
+- **Born-On Token DNA:** Every token carries a unique serial stamp.  
+- **Wallet Behavior Scanner:** Flags unusual trade patterns and bot behavior.  
+- **Freeze Protocol:** Suspect wallets are auto-paused for review and DAO vote.  
+- **DAO Defense Shield:** Stakeholders ($1K+ in GRIND) vote on unlocks or blacklists.
+
+> Protected by GRIND’s custom-built DHI system — where transparency meets accountability.
 
 ---
 
-## What It Does
+## 💧 Liquidity Pool
 
-- Track your GRIND token balance, price, and staking status
-- View lore progression and unlock next chapters
-- Access governance voting and proposals
-- Claim NFT rewards, merch, and achievements
-- Stay updated with Marvin’s transmissions
+- **Pair:** GRIND/SOL  
+- **Initial LP Injection:** Powered by dev fund & ICO raise  
+- **LP Lock:** [Link will be posted here after deployment]  
+- **Lock Duration:** Minimum 6 months  
+- **Locker Used:** DXLock (or verified platform)
 
 ---
 
-## Status
+## 🧭 ICO Terms
 
-🚧 Currently under construction  
-🧠 Designed for the GRINDers who never stop  
-💬 Community-powered, decentralized in spirit and function
+- **Platform:** Smithii  
+- **Purchase Limit:** 5,000,000 GRIND per wallet/day  
+- **Accepted Token:** SOL  
+- **Sale Wallet:** `GSZjSLFR3nad7G2uc7aQcSXPZCbPANc5iEJnXmMQS5UH`  
+- **Countdown Timer & LP Lock:** Visible on launch site
 
-**Welcome to the Dashboard of the Determined.**
+---
+
+## 🦔 Mascot
+
+GRIND is represented by an anime-style hedgehog in a black pinstripe welder suit with wraparound glasses and diamond MJ gloves — grinding a red candlestick into green candles. Saturn hovers in the backdrop.
+
+---
+
+## 💬 Social & Links
+
+- [Website - Coming Soon]()  
+- [Twitter]()  
+- [Telegram]()  
+- [GitHub Repository]()
